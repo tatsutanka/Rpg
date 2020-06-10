@@ -1,0 +1,180 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2020.5.20)  7 JUN 2020 23:43
+entering extended mode
+ \write18 enabled.
+ %&-line parsing enabled.
+**/tmp/nvim8Ruske/1
+(/tmp/nvim8Ruske/1
+LaTeX2e <2019-10-01> patch level 1
+(/usr/share/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2019/08/27 v1.4j Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/bk10.clo
+File: bk10.clo 2019/08/27 v1.4j Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf-dist/tex/latex/blindtext/blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+(/usr/share/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count89
+\c@Blindtext=\count90
+\c@blind@countparstart=\count91
+\blind@countxx=\count92
+\blindtext@numBlindtext=\count93
+\blind@countyy=\count94
+\c@blindlist=\count95
+\c@blindlistlevel=\count96
+\c@blindlist@level=\count97
+\blind@listitem=\count98
+\c@blind@listcount=\count99
+\c@blind@levelcount=\count100
+\blind@mathformula=\count101
+\blind@Mathformula=\count102
+\c@blind@randomcount=\count103
+\c@blind@randommax=\count104
+\c@blind@pangramcount=\count105
+\c@blind@pangrammax=\count106
+)
+(/usr/share/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
+
+(/usr/share/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+(/usr/share/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+) (./Mundo.aux)
+\openout1 = `Mundo.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 14.
+ [1
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] (./Mundo.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 5.
+ [3
+
+])
+\tf@toc=\write3
+\openout3 = `Mundo.toc'.
+
+ [4]
+Chapter 1.
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 2
+6.
+(/usr/share/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 26.
+ [5
+
+] [6
+
+]
+Chapter 2.
+
+Overfull \hbox (16.00131pt too wide) in paragraph at lines 44--45
+[]\T1/cmr/m/n/10 Vermelho dra-gao da guerra (con-flito) (morte)= Ver-guemo (jun
+-cao de palavras) 
+ []
+
+[7] [8]
+Chapter 3.
+[9
+
+] [10
+
+]
+Chapter 4.
+[11] [12] [13] [14]
+Chapter 5.
+
+Overfull \hbox (31.74133pt too wide) in paragraph at lines 205--210
+\T1/cmr/m/n/10 Draconianos cri-a-dos na 2 era e tiefil-ings e elfos na 4 era Dr
+aconatos,Tiefilins,Elfos,Meias-
+ []
+
+
+Overfull \hbox (4.2897pt too wide) in paragraph at lines 212--214
+\T1/cmr/m/n/10 Criadas na 5 era Humanos,Halfilings,Anoes,Gnomos,Meia-racas com 
+racas Baixas 
+ []
+
+[15
+
+] [16
+
+]
+Chapter 6.
+[17] [18
+
+]
+Chapter 7.
+[19] [20]
+Chapter 8.
+[21
+
+] [22] (./Mundo.aux) ) 
+Here is how much of TeX's memory you used:
+ 715 strings out of 492167
+ 8074 string characters out of 6131558
+ 72243 words of memory out of 5000000
+ 5119 multiletter control sequences out of 15000+600000
+ 15681 words of font info for 35 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 25i,6n,20p,186b,183s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-
+t1.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/s
+hare/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texmf-dist
+/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf-dist/fonts/type1/pu
+blic/cm-super/sfbx1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/s
+fbx2074.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></u
+sr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf-
+dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf-dist/fonts/type
+1/public/cm-super/sfrm1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-sup
+er/sfrm1728.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfsl1000.pfb
+>
+Output written on Mundo.pdf (22 pages, 177042 bytes).
+PDF statistics:
+ 120 PDF objects out of 1000 (max. 8388607)
+ 84 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
