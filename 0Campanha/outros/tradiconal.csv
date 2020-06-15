@@ -1,0 +1,14 @@
+Raca ,SubRaca,strength,Dexterity,Constitution,Inteligence,Wisdom,Charisma
+Draconato,,+2,0,0,0,0,+1
+Anao,montanha,+2,0,+2,0,0,0
+Anao,colina,0,0,+2,0,+1,0
+Elfo,Alto,0,+2,0,+1,0,0
+Elfo,Floresta,0,+2,0,0,+1,0
+Elfo,Negro,0,+2,0,0,0,+1
+Halfling,Pes leves,0,+2,0,0,0,+1
+Halfling,Robusto,0,+2,+1,0,0,0
+Humano,,+1,+1,+1,+1,+1,+1
+Gnomo,floresta,0,+1,0,+2,0,0
+Gnomo,rocha,0,0,+1,+2,0,0
+Orc,,+2,0,+1,0,0,0
+Tiefiling,,0,0,0,+1,0,+2
