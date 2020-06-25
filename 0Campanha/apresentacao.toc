@@ -1,0 +1,70 @@
+\contentsline {part}{I\hspace {1em}Apresentacao inicial}{5}%
+\contentsline {chapter}{\numberline {1}Quais sao os elementos que guiam essa historia?}{7}%
+\contentsline {chapter}{\numberline {2}O que eh preciso saber sobre o mundo?}{9}%
+\contentsline {section}{\numberline {2.1}Deuses ancestrais}{9}%
+\contentsline {part}{II\hspace {1em}Uma breve introducao as Racas}{11}%
+\contentsline {chapter}{\numberline {3}Anao}{13}%
+\contentsline {section}{\numberline {3.1}Tracos Raciais}{13}%
+\contentsline {section}{\numberline {3.2}Passado}{13}%
+\contentsline {section}{\numberline {3.3}Modernidade}{14}%
+\contentsline {chapter}{\numberline {4}Elfo da floresta}{15}%
+\contentsline {section}{\numberline {4.1}Tracos Raciais}{15}%
+\contentsline {section}{\numberline {4.2}Passado}{16}%
+\contentsline {section}{\numberline {4.3}Modernidade}{16}%
+\contentsline {chapter}{\numberline {5}Elfo da montanha}{17}%
+\contentsline {section}{\numberline {5.1}Tracos Raciais}{17}%
+\contentsline {section}{\numberline {5.2}Passado}{17}%
+\contentsline {section}{\numberline {5.3}Modernidade}{18}%
+\contentsline {chapter}{\numberline {6}Elfo do deserto}{19}%
+\contentsline {section}{\numberline {6.1}Tracos Raciais}{19}%
+\contentsline {section}{\numberline {6.2}Passado}{20}%
+\contentsline {section}{\numberline {6.3}Modernidade}{20}%
+\contentsline {chapter}{\numberline {7}Hafling pes leves}{21}%
+\contentsline {section}{\numberline {7.1}Tracos Raciais}{21}%
+\contentsline {section}{\numberline {7.2}Passado}{21}%
+\contentsline {section}{\numberline {7.3}Modernidade}{21}%
+\contentsline {chapter}{\numberline {8}Hafling robusto}{23}%
+\contentsline {section}{\numberline {8.1}Tracos Raciais}{23}%
+\contentsline {section}{\numberline {8.2}Passado}{23}%
+\contentsline {section}{\numberline {8.3}Modernidade}{23}%
+\contentsline {chapter}{\numberline {9}Humano}{25}%
+\contentsline {section}{\numberline {9.1}Tracos Raciais}{25}%
+\contentsline {section}{\numberline {9.2}Passado}{25}%
+\contentsline {section}{\numberline {9.3}Modernidade}{25}%
+\contentsline {chapter}{\numberline {10}Draconato}{27}%
+\contentsline {section}{\numberline {10.1}Tracos Raciais}{27}%
+\contentsline {section}{\numberline {10.2}Passado}{27}%
+\contentsline {section}{\numberline {10.3}Modernidade}{28}%
+\contentsline {chapter}{\numberline {11}Gnomo Floresta}{29}%
+\contentsline {section}{\numberline {11.1}Tracos Raciais}{29}%
+\contentsline {section}{\numberline {11.2}Passado}{29}%
+\contentsline {section}{\numberline {11.3}Modernidade}{29}%
+\contentsline {chapter}{\numberline {12}Gnomo Rocha}{31}%
+\contentsline {section}{\numberline {12.1}Tracos Raciais}{31}%
+\contentsline {section}{\numberline {12.2}Passado}{32}%
+\contentsline {section}{\numberline {12.3}Modernidade}{32}%
+\contentsline {chapter}{\numberline {13}Tiefiling Abissal}{33}%
+\contentsline {section}{\numberline {13.1}Tracos Raciais}{33}%
+\contentsline {section}{\numberline {13.2}Passado}{33}%
+\contentsline {section}{\numberline {13.3}Modernidade}{33}%
+\contentsline {chapter}{\numberline {14}Tiefiling Ancestral}{35}%
+\contentsline {section}{\numberline {14.1}Tracos Raciais}{35}%
+\contentsline {section}{\numberline {14.2}Passado}{35}%
+\contentsline {section}{\numberline {14.3}Modernidade}{35}%
+\contentsline {chapter}{\numberline {15}Orc}{37}%
+\contentsline {section}{\numberline {15.1}Tracos Raciais}{37}%
+\contentsline {section}{\numberline {15.2}Passado}{37}%
+\contentsline {section}{\numberline {15.3}Modernidade}{37}%
+\contentsline {part}{III\hspace {1em}Uma breve introducao as Classes}{39}%
+\contentsline {section}{\numberline {15.4}Barbaro}{41}%
+\contentsline {section}{\numberline {15.5}Bardo}{41}%
+\contentsline {section}{\numberline {15.6}Bruxo}{41}%
+\contentsline {section}{\numberline {15.7}Clerigo}{41}%
+\contentsline {section}{\numberline {15.8}Druida}{41}%
+\contentsline {section}{\numberline {15.9}Feiticeiro}{41}%
+\contentsline {section}{\numberline {15.10}Guerreiro}{41}%
+\contentsline {section}{\numberline {15.11}Ladino}{41}%
+\contentsline {section}{\numberline {15.12}Mago}{41}%
+\contentsline {section}{\numberline {15.13}Monge}{41}%
+\contentsline {section}{\numberline {15.14}Paladino}{41}%
+\contentsline {section}{\numberline {15.15}Patrulheiro}{42}%
