@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2020.6.17)  23 JUN 2020 23:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2020.6.17)  26 JUN 2020 16:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -203,14 +203,12 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 ] (./Mundo.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 7.
+(Font)              <7> on input line 10.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 7.
+(Font)              <5> on input line 10.
  [3])
 \tf@toc=\write4
- [4] (./Mundo.toc)
-\tf@toc=\write5
- [5
+ [4] [5
 
 ] [6
 
@@ -226,80 +224,46 @@ Chapter 2.
 
 ] [16
 
-] [17] [18]
+] [17] [18] [19] [20
+
+] [21] [22]
 Chapter 3.
-[19
+[23
 
-] [20] [21] [22
+] [24
 
-]
+] [25] [26]
 Chapter 4.
-[23] [24
+[27
 
-] [25] [26] [27] [28
+] [28] [29] [30
 
 ]
 Chapter 5.
-[29] [30
-
-]
-Chapter 6.
 [31] [32
 
 ] [33] [34] [35] [36
 
 ]
-Chapter 7.
+Chapter 6.
 [37] [38
 
 ]
-Chapter 8.
-[39] [40
-
-]
-Chapter 9.
-[41] [42
-
-]
-Chapter 10.
-[43] [44
-
-]
-Chapter 11.
-[45] [46
-
-]
-Chapter 12.
-[47] [48
-
-]
-Chapter 13.
-[49] [50
-
-]
-Chapter 14.
-[51] [52
-
-]
-Chapter 15.
-[53] [54
-
-]
-Chapter 16.
-[55] (./Mundo.aux) ) 
+Chapter 7.
+[39] (./Mundo.aux) ) 
 Here is how much of TeX's memory you used:
- 3143 strings out of 480478
- 55863 string characters out of 5905959
- 302973 words of memory out of 5000000
+ 3141 strings out of 480478
+ 55843 string characters out of 5905959
+ 301973 words of memory out of 5000000
  19139 multiletter control sequences out of 15000+600000
  544714 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  43i,10n,48p,866b,231s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfsl1000.pfb>
-Output written on Mundo.pdf (55 pages, 186362 bytes).
+Output written on Mundo.pdf (39 pages, 174649 bytes).
 PDF statistics:
- 227 PDF objects out of 1000 (max. 8388607)
- 158 compressed objects within 2 object streams
+ 176 PDF objects out of 1000 (max. 8388607)
+ 123 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

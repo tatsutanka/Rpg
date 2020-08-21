@@ -6,10 +6,10 @@
 \contentsline {chapter}{\numberline {3}Anao}{13}%
 \contentsline {section}{\numberline {3.1}Tracos Raciais}{13}%
 \contentsline {section}{\numberline {3.2}Passado}{13}%
-\contentsline {section}{\numberline {3.3}Modernidade}{14}%
+\contentsline {section}{\numberline {3.3}Modernidade}{13}%
 \contentsline {chapter}{\numberline {4}Elfo da floresta}{15}%
 \contentsline {section}{\numberline {4.1}Tracos Raciais}{15}%
-\contentsline {section}{\numberline {4.2}Passado}{16}%
+\contentsline {section}{\numberline {4.2}Passado}{15}%
 \contentsline {section}{\numberline {4.3}Modernidade}{16}%
 \contentsline {chapter}{\numberline {5}Elfo da montanha}{17}%
 \contentsline {section}{\numberline {5.1}Tracos Raciais}{17}%
@@ -17,7 +17,7 @@
 \contentsline {section}{\numberline {5.3}Modernidade}{18}%
 \contentsline {chapter}{\numberline {6}Elfo do deserto}{19}%
 \contentsline {section}{\numberline {6.1}Tracos Raciais}{19}%
-\contentsline {section}{\numberline {6.2}Passado}{20}%
+\contentsline {section}{\numberline {6.2}Passado}{19}%
 \contentsline {section}{\numberline {6.3}Modernidade}{20}%
 \contentsline {chapter}{\numberline {7}Hafling pes leves}{21}%
 \contentsline {section}{\numberline {7.1}Tracos Raciais}{21}%
@@ -41,7 +41,7 @@
 \contentsline {section}{\numberline {11.3}Modernidade}{29}%
 \contentsline {chapter}{\numberline {12}Gnomo Rocha}{31}%
 \contentsline {section}{\numberline {12.1}Tracos Raciais}{31}%
-\contentsline {section}{\numberline {12.2}Passado}{32}%
+\contentsline {section}{\numberline {12.2}Passado}{31}%
 \contentsline {section}{\numberline {12.3}Modernidade}{32}%
 \contentsline {chapter}{\numberline {13}Tiefiling Abissal}{33}%
 \contentsline {section}{\numberline {13.1}Tracos Raciais}{33}%

@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1592971703 "apresentacao.tex" "apresentacao.pdf" "apresentacao" 1592971703
+["pdflatex"] 1593883916 "apresentacao.tex" "apresentacao.pdf" "apresentacao" 1593883917
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1591545468 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1591545468 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1591545468 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -73,13 +73,13 @@
   "/usr/share/texmf-dist/tex/latex/tools/xspace.sty" 1591545468 4546 3e6071704acf4f66392376b7b66ae02c ""
   "/usr/share/texmf-dist/tex/latex/wrapfig/wrapfig.sty" 1591524854 26220 3701aebf80ccdef248c0c20dd062fea9 ""
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1591545468 33301 a3134070eacafb10b1f371612ce2650d ""
-  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1592445341 4727905 1b81189106e2406a827797a37162c1c0 ""
-  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1592445335 2514047 1a5d92e45e00041b62e5178edd7dcfaf ""
-  "apresentacao.aux" 1592971703 8216 5c23be9385577902323e507ec44f9b5a "pdflatex"
-  "apresentacao.tex" 1592971702 37051 80b1993bf1f48e1bf1382cb3b383df8b ""
-  "apresentacao.toc" 1592971703 4195 105cd1e5e118deaf7756509951e06852 "pdflatex"
+  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1593882122 4727905 1b81189106e2406a827797a37162c1c0 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1593882112 2514048 80734cba780d8b84636b4f450ba420e3 ""
+  "apresentacao.aux" 1593883917 8216 d9efe5d5579e475eeaa7fd135481ea6e "pdflatex"
+  "apresentacao.tex" 1593727368 33435 cb40cbd9431b2b6658e95b00bc1de860 ""
+  "apresentacao.toc" 1593883917 4195 b0af92e7b7cd876ac3c30cd96c9a55c5 "pdflatex"
   (generated)
-  "apresentacao.log"
   "apresentacao.aux"
-  "apresentacao.pdf"
+  "apresentacao.log"
   "apresentacao.toc"
+  "apresentacao.pdf"

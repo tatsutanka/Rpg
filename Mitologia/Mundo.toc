@@ -1,45 +1,36 @@
 \contentsline {part}{I\hspace {1em}Ideia}{7}%
 \contentsline {chapter}{\numberline {1}Nomeclatura}{11}%
-\contentsline {part}{II\hspace {1em}Mitos}{13}%
-\contentsline {chapter}{\numberline {2}Mitos de Criacao}{15}%
-\contentsline {part}{III\hspace {1em}Racas}{17}%
-\contentsline {chapter}{\numberline {3}Racas Jogaveis}{19}%
-\contentsline {section}{\numberline {3.1}Draconatos}{19}%
-\contentsline {section}{\numberline {3.2}Elfo}{19}%
-\contentsline {section}{\numberline {3.3}Tiefiling}{20}%
-\contentsline {section}{\numberline {3.4}Anao}{20}%
-\contentsline {section}{\numberline {3.5}Humano}{20}%
-\contentsline {subsection}{\numberline {3.5.1}Modernidade}{20}%
-\contentsline {section}{\numberline {3.6}Halfiling}{20}%
-\contentsline {subsection}{\numberline {3.6.1}Modernidade}{20}%
-\contentsline {section}{\numberline {3.7}Gnomo}{21}%
-\contentsline {subsection}{\numberline {3.7.1}Modernidade}{21}%
-\contentsline {section}{\numberline {3.8}Orc}{21}%
-\contentsline {subsection}{\numberline {3.8.1}Modernidade}{21}%
-\contentsline {chapter}{\numberline {4}Racas nao jogaveis}{23}%
-\contentsline {section}{\numberline {4.1}Dragoes}{23}%
-\contentsline {section}{\numberline {4.2}Demonios}{23}%
-\contentsline {part}{IV\hspace {1em}Organizacao Social}{25}%
-\contentsline {section}{\numberline {4.3}Racas Nobres}{27}%
-\contentsline {section}{\numberline {4.4}Racas Baixas}{27}%
-\contentsline {chapter}{\numberline {5}Imperios}{29}%
-\contentsline {section}{\numberline {5.1}Imperio Draconiano}{29}%
-\contentsline {section}{\numberline {5.2}Imperia Elfico}{29}%
-\contentsline {section}{\numberline {5.3}Imperio Tiefilin}{29}%
-\contentsline {chapter}{\numberline {6}Nobreza}{31}%
-\contentsline {section}{\numberline {6.1}Titulos gerais}{31}%
-\contentsline {section}{\numberline {6.2}Titulos exclusivos dos Imperios Draconatos}{31}%
-\contentsline {section}{\numberline {6.3}Titulos exclusivos dos imperios Tiefilings}{31}%
-\contentsline {section}{\numberline {6.4}Titulos exclusivos dos Imperios Elficos}{31}%
-\contentsline {section}{\numberline {6.5}Titulos exclusivos dos Imperios Magos}{31}%
-\contentsline {part}{V\hspace {1em}Eras}{33}%
-\contentsline {chapter}{\numberline {7}1 era}{37}%
-\contentsline {chapter}{\numberline {8}2 era}{39}%
-\contentsline {chapter}{\numberline {9}3 era}{41}%
-\contentsline {chapter}{\numberline {10}4 era}{43}%
-\contentsline {chapter}{\numberline {11}5 era (A grande decaida)}{45}%
-\contentsline {chapter}{\numberline {12}6 era}{47}%
-\contentsline {chapter}{\numberline {13}7 era}{49}%
-\contentsline {chapter}{\numberline {14}8 era}{51}%
-\contentsline {chapter}{\numberline {15}9 era}{53}%
-\contentsline {chapter}{\numberline {16}10 era (modernidade de kuara)}{55}%
+\contentsline {part}{II\hspace {1em}Magia}{13}%
+\contentsline {chapter}{\numberline {2}Natureza da Magia}{15}%
+\contentsline {part}{III\hspace {1em}Tecnologia}{17}%
+\contentsline {part}{IV\hspace {1em}Religiao}{21}%
+\contentsline {chapter}{\numberline {3}Mitos de Criacao}{23}%
+\contentsline {part}{V\hspace {1em}Racas}{25}%
+\contentsline {chapter}{\numberline {4}Racas Jogaveis}{27}%
+\contentsline {section}{\numberline {4.1}Draconatos}{27}%
+\contentsline {section}{\numberline {4.2}Elfo}{27}%
+\contentsline {section}{\numberline {4.3}Tiefiling}{28}%
+\contentsline {section}{\numberline {4.4}Anao}{28}%
+\contentsline {section}{\numberline {4.5}Humano}{28}%
+\contentsline {subsection}{\numberline {4.5.1}Modernidade}{28}%
+\contentsline {section}{\numberline {4.6}Halfiling}{28}%
+\contentsline {subsection}{\numberline {4.6.1}Modernidade}{29}%
+\contentsline {section}{\numberline {4.7}Gnomo}{29}%
+\contentsline {subsection}{\numberline {4.7.1}Modernidade}{29}%
+\contentsline {section}{\numberline {4.8}Orc}{29}%
+\contentsline {subsection}{\numberline {4.8.1}Modernidade}{29}%
+\contentsline {chapter}{\numberline {5}Racas nao jogaveis}{31}%
+\contentsline {section}{\numberline {5.1}Dragoes}{31}%
+\contentsline {section}{\numberline {5.2}Demonios}{31}%
+\contentsline {part}{VI\hspace {1em}Organizacao Social}{33}%
+\contentsline {chapter}{\numberline {6}Imperios}{37}%
+\contentsline {section}{\numberline {6.1}Imperio Draconiano}{37}%
+\contentsline {section}{\numberline {6.2}Imperia Elfico}{37}%
+\contentsline {section}{\numberline {6.3}Imperio Tiefiling}{37}%
+\contentsline {chapter}{\numberline {7}Cronologia}{39}%
+\contentsline {section}{\numberline {7.1}1 era (A cgrande Criacao)}{39}%
+\contentsline {section}{\numberline {7.2}2 era}{39}%
+\contentsline {section}{\numberline {7.3}4 era}{39}%
+\contentsline {section}{\numberline {7.4}5 era (A grande decaida)}{39}%
+\contentsline {section}{\numberline {7.5}6 era}{39}%
+\contentsline {section}{\numberline {7.6}10 era (modernidade de kuara)}{39}%
